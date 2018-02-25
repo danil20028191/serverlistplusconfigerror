@@ -1,0 +1,2 @@
+# serverlistplusconfigerror
+Не работает конфиг
